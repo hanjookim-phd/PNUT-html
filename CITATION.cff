@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software in academic work, please cite it as below."
+title: "PNUT: Personalized Network Utility Toolkit"
+type: software
+authors:
+  - family-names: "Kim"
+    given-names: "Hanjoo"
+date-released: "2026-03-05"
+license: "Non-Commercial Research and Educational License (Forks/PRs Allowed)"
+repository-code: "https://github.com/hanjookim-phd/PNUT"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Kim"
+      given-names: "Hanjoo"
+  title: "PNUT: Personalized Network Utility Toolkit"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/hanjookim-phd/PNUT"
