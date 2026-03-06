@@ -2,6 +2,8 @@
   <img src="pnut-logo.png" alt="PNUT logo" width="180">
 </p>
 
+📄 **Rendered HTML report (GitHub Pages):** https://hanjookim-phd.github.io/PNUT/
+
 # PNUT: Personalized Network Utility Toolkit
 
 PNUT is an **R Markdown** toolkit that derives **personalized (individual-level) network features** from questionnaire item responses to support **Network-Augmented Machine Learning Utility (NAMU)**. PNUT converts each participant’s item-response profile into an individualized **symptom co-activation** representation and extracts network-informed predictors (e.g., **node strength**, **pairwise edge weights**, and **graph-level connectivity summaries** such as binary/weighted density). These features can be used alongside conventional predictors in downstream machine learning pipelines.
@@ -189,3 +191,4 @@ By contributing, you agree that your contributions will be licensed under the sa
 ## Contact
 
 For questions or bug reports, please use the GitHub Issues page for this repository.
+
